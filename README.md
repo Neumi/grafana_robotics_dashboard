@@ -109,7 +109,7 @@ If you want to have all data shown on the dashboard like in the image on top, al
 
 
 ## Debugging:
-If the dashboard misses data try restarting it:
+If the dashboard misses data try restarting it: (its a known issue https://github.com/grafana/mqtt-datasource/issues/44)
 ```$ 
 service grafana-server restart
 ```
