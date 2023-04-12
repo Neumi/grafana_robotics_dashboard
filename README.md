@@ -66,12 +66,9 @@ http://<ip address>:3000
 ```
 Default user and password is 'admin' and 'admin'.
 
-You can now add the dashboard in from the [grafana](grafana) folder.
+You can now add the dashboard in from the [grafana](grafana) folder. (I wont show data until you finish the next steps.)
 
 <img alt="import_grafana" src="/images/import_grafana.png">
-
-
-
 
 
 ### Clone the repo to your Raspberry Pi. 
@@ -106,7 +103,7 @@ python serial_mqtt_stream.py
 
 To fetch system data (CPU and RAM usage) and stream to MQTT run:
 ```$ 
-python serial_mqtt_stream.py
+python system_mqtt_stream.py
 ```
 
 If you want to have all data shown on the dashboard like in the image on top, all scripts have to run. But the dashboard will also work with partial data.
