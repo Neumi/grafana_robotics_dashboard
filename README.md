@@ -108,4 +108,14 @@ python system_mqtt_stream.py
 If you want to have all data shown on the dashboard like in the image on top, all scripts have to run. But the dashboard will also work with partial data.
 
 
+## Debugging:
+If the dashboard misses data try restarting it:
+```$ 
+service grafana-server restart
+```
+
+If you want to check if the MQTT data transfer works try to subscribe to a topic for testing:
+```$ 
+mosquitto_sub -t copilot/data/acceleration/x
+```
 
