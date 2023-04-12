@@ -1,5 +1,5 @@
 # Grafana Robotics Dashboard (Copilot)
-A Grafana dashboard (+ configuration + firmware + python clients + RPI camera) to show different <b>real time data</b> from robots/machines using MQTT, Raspberry Pi, Multi Wii Copter MWC board with custom firmware.
+A Grafana dashboard (+ configuration + firmware + python clients + RPI camera) to show different <b>real time data</b> (~50ms) from robots/machines using MQTT, Raspberry Pi, Multi Wii Copter MWC board with custom firmware.
 The MWC board can easily be replaced by any Arduino that runs the [arduino firmware](arduino), while having these sensors connected:
 - ITG3205 gyro
 - BMA180 accelerometer
