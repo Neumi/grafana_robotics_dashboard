@@ -126,6 +126,6 @@ Have fun!
 <img alt="animation" src="/images/animation.gif">
 
 This is what the setup looks like with the flightcontroller and camera connected to the RPI.
-<img alt="setup" src="/images/setup.jpg">
+<img alt="setup" src="/images/setup_rotated.jpg">
 
 
