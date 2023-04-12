@@ -4,7 +4,6 @@ The MWC board can easily be replaced by any Arduino that runs the [arduino firmw
 - ITG3205 gyro
 - BMA180 accelerometer
 - HMC5883L magnetometer
-- (BMP085 barometer)
 
 It's called Copilot, because it needed a name and assists you while playing (driving) around or tuning your PIDs.
 
