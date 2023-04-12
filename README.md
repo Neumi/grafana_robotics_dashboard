@@ -123,6 +123,9 @@ mosquitto_sub -t copilot/data/acceleration/x
 
 Have fun!
 
-<img alt="import_grafana" src="/images/animation.gif">
+<img alt="animation" src="/images/animation.gif">
+
+This is what the setup looks like with the flightcontroller and camera connected to the RPI.
+<img alt="setup" src="/images/setup.jpg">
 
 
