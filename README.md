@@ -120,3 +120,9 @@ If you want to check if the MQTT data transfer works try to subscribe to a topic
 mosquitto_sub -t copilot/data/acceleration/x
 ```
 
+
+Have fun!
+
+<img alt="import_grafana" src="/images/animation.gif">
+
+
