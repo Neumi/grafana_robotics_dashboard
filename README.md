@@ -65,7 +65,7 @@ http://<ip address>:3000
 ```
 Default user and password is 'admin' and 'admin'.
 
-You can now add the dashboard in from the [grafana](grafana) folder. (I wont show data until you finish the next steps.)
+You can now add the dashboard from the [grafana](grafana) folder. (It wont show data until you finish the next steps.)
 
 <img alt="import_grafana" src="/images/import_grafana.png">
 
